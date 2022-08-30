@@ -16,6 +16,8 @@
           <ul>
             <li>JavaScript</li>
             <li>TypeScript</li>
+            <li>HTML</li>
+            <li>CSS</li>
           </ul>
       </ul>
   <li>Back-End</li>
@@ -32,6 +34,10 @@
             <li>SQL</li>
             <li>Python</li>
             <li>Node.js</li>
+          </ul>
+        <li>Technologies</li>
+          <ul>
+            <li>Google Firebase Realtime Database</li>
           </ul>
       </ul>
 </ul>
